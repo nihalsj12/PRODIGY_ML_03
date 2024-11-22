@@ -1,5 +1,5 @@
 # PRODIGY_ML_03
-Image Classification of Cats and Dogs Using Support Vector Machine (SVM)
+Project Title: Image Classification of Cats and Dogs Using Support Vector Machine (SVM)
 
 Overview: This project shows how to identify photos of dogs and kittens using a Support Vector Machine (SVM). The objective is to develop a machine learning model that can reliably recognize and categorize photos based on their content (either a dog or a cat) by utilizing a dataset from the Kaggle "Dogs vs. Cats" competition.
 
